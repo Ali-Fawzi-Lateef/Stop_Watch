@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class StopWatch implements ActionListener {
-    
+     
     JFrame frame = new JFrame();
     JButton startButton = new JButton("Start");
     JButton resetButton = new JButton("Reset");
